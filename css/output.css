@@ -670,6 +670,11 @@ video {
   background-color: rgb(212 212 216 / var(--tw-bg-opacity));
 }
 
+.bg-zinc-200 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(228 228 231 / var(--tw-bg-opacity));
+}
+
 .bg-backSvg {
   background-image: url('/img/wave.png');
 }
